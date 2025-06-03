@@ -1,0 +1,41 @@
+# 1С файлы
+*.dt
+*.1cd
+*.cf
+*.epf
+*.erf
+*.ert
+*.md5
+*.tmp
+*.log
+
+# Cursor временные файлы
+.cursor/
+*.cursor-*
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Node.js (если используется)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE файлы
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Временные файлы
+*.bak
+*.backup
+*.orig
+*.rej
+*~ 
